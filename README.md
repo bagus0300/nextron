@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<h2 align="center">
-  <a aria-label="2024 Roadmaps - I'm back!" href="https://github.com/saltyshiomix/nextron/issues/442">
-    2024 Roadmaps - I'm back!
-  </a>
-</h2>
-
 ## Support
 
 ### Nextron vs Next.js
