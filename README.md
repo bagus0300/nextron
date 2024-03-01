@@ -6,7 +6,6 @@
   <a aria-label="NPM downloads" href="https://www.npmjs.com/package/nextron">
     <img src="https://img.shields.io/npm/dt/nextron.svg?style=for-the-badge&labelColor=000000" alt="NPM downloads">
   </a>
-  <img src="https://img.shields.io/github/license/saltyshiomix/nextron.svg?style=for-the-badge&labelColor=000000" alt="Package License (MIT)">
   <a aria-label="AWESOME NEXTJS" href="https://github.com/unicodeveloper/awesome-nextjs">
     <img src="https://img.shields.io/badge/AWESOME%20%20NEXTJS-b37fb3.svg?style=for-the-badge" alt="AWESOME NEXTJS">
   </a>
@@ -447,7 +446,7 @@ $ pnpm dlx create-nextron-app my-app --example with-tailwindcss
 ### Basic
 
 ```
-$ git clone https://github.com/saltyshiomix/nextron.git
+$ git clone https://github.com/sekai0330/nextron.git
 $ cd nextron
 $ pnpm install
 $ pnpm dev # default is examples/basic-lang-javascript
@@ -481,7 +480,7 @@ $ npm link nextron
 
 ## Maintainers ⚡
 
-- [saltyshiomix (Shiono Yoshihide)](https://github.com/saltyshiomix)
+
 - [lacymorrow (Lacy Morrow)](https://github.com/lacymorrow)
 - [Psycokwet](https://github.com/Psycokwet)
 - [m5x5](https://github.com/m5x5)
@@ -489,16 +488,3 @@ $ npm link nextron
 - [bm777 (Bayang)](https://github.com/bm777)
 - [FranciscoJBrito (Francisco Brito)](https://github.com/FranciscoJBrito)
 
-For more information, please see [Looking for maintainers ⚡ #244](https://github.com/saltyshiomix/nextron/discussions/244).
-
-## Community
-
-You already create apps with nextron? Feel free to share your apps or services: [Made by nextron? #406](https://github.com/saltyshiomix/nextron/discussions/406)
-
-## Related
-
-- [create-nextron-app](https://github.com/saltyshiomix/create-nextron-app) - Create Nextron (Electron + Next.js) apps in one command ⚡
-
-## License
-
-This project is licensed under the terms of the [MIT license](https://github.com/saltyshiomix/nextron/blob/master/LICENSE).
